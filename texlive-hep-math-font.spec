@@ -1,6 +1,6 @@
 Name:		texlive-hep-math-font
 Version:	64901
-Release:	1
+Release:	2
 Summary:	Extended Greek and sans-serif math
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/hep-math-font
