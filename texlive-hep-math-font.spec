@@ -1,5 +1,5 @@
 Name:		texlive-hep-math-font
-Version:	67632
+Version:	72984
 Release:	1
 Summary:	Extended Greek and sans-serif math
 Group:		Publishing
